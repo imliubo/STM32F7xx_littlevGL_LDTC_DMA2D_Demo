@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+*.LIUBO
+MDK-ARM/DebugConfig/*
+MDK-ARM/littleVGL_STM32_LDTC+DMA2D/*
+MDK_ARM/RTE/*
+
